@@ -1,5 +1,3 @@
-# 변경했음!
-
 <h1>Project 개요</h1>
 
 <h3> 💡아이디어 </h3>
@@ -9,8 +7,6 @@
 * T 대화방과 F 대화방을 선택하여 대화를 시작
 * 자신의 대화성향을 테스트해볼 수 있는 간단한 TEST 페이지 제작(MBTI 질문 5개)
 * 챗봇과의 대화 저장 기능 구현
-
-
 
   
 <h3> 👩‍💻팀 인원 및 역할 </h3>
@@ -48,8 +44,6 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   
 </p>
-
-
 
 <h3>📲사용 화면</h3>
 
